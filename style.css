@@ -108,7 +108,7 @@
 .hero {
     position: relative;
     height: 540px;
-    background-image: url("title.jpg");
+    background-image: url("./title.jpg");
     background-size: cover;
     background-position: center;
 
